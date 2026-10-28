@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Chat Studio",
+  "description": "A modern, ChatGPT-inspired conversational AI assistant built in a single standalone HTML interface powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
